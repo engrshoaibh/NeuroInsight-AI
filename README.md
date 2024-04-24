@@ -11,33 +11,32 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Front UI Mobile and Desktop
+## ==> Mobiile
+### Landing Page
+![bandicam 2024-04-25 00-47-44-030](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/baaf3e60-1b46-44da-9b34-6b5787100655)
+### Footer
+![bandicam 2024-04-25 00-47-52-503](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/9630fcb3-ec59-4ca5-b672-c6b151d13f32)
+### Login
+![bandicam 2024-04-25 00-48-03-433](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/a537618c-bf10-4d4f-aa6b-990ee4403154)
+### Dashboard
+![bandicam 2024-04-25 00-48-14-053](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/4f79570e-6f21-4604-b9bb-6ee8db707229)
+### Update Profile
+![bandicam 2024-04-25 00-48-37-609](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/86d7ba3f-59ee-47f9-b036-fcc4cb975a0c)
+### Give Feedback
+![bandicam 2024-04-25 00-48-52-207](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/37780a23-5535-49ff-abaa-53a23b45275d)
+### Generate Report
+![bandicam 2024-04-25 00-50-31-489](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/ec24935f-b8df-4c15-a1fa-735fc5d12ba4)
+### Signup
+![bandicam 2024-04-25 00-50-55-435](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/34a09d9a-7247-435d-90f0-e0cbd25c197f)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## ==> Desktop
+### Landing Page
+![bandicam 2024-04-25 00-45-43-819](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/bd85ef15-b275-43f8-81ba-6cfeb7b47d6a)
+### Features
+![bandicam 2024-04-25 00-45-55-867](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/05465248-5724-4dc5-8029-02d5f43e5b7c)
+### Footer
+![bandicam 2024-04-25 00-46-07-957](https://github.com/engrshoaibh/NeuroInsight-AI/assets/165199701/8831b42c-c6d3-46ef-9054-83759832bf1b)
 
 ## Learn More
 
